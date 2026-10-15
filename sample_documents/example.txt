@@ -1,0 +1,5 @@
+Baroda Knowledge Base Example
+
+This sample document demonstrates local text ingestion, chunking, embeddings,
+and source-aware retrieval. The chatbot should cite this file when answering
+questions about the example knowledge base.
